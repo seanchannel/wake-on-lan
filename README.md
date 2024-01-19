@@ -1,5 +1,7 @@
 # wake-on-lan
 
+Note: this is old and I'm working on a new scalable version.
+
 Send the magic packet to wake up sleeping computers with WOL enabled. Make the script executable with `chmod +x ./wol`. 
 
 Usage:
